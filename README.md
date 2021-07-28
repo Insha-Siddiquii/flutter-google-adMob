@@ -12,3 +12,4 @@ Application is using the [Google Ads Plugin](https://pub.dev/packages/google_mob
 
 ## How it looks
 
+<img src="https://github.com/Insha-Siddiquii/flutter-google-adMob/blob/master/snaps/ads.gif"  height="650">
